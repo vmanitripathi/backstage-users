@@ -1,0 +1,9 @@
+kind: Location
+metadata:
+  name: tw-org
+  description: A collection of all Backstage user and group entities
+spec:
+  targets:
+    - ./thoughtworks/groups/awesome-project.yaml
+    - ./thoughtworks/groups/tw.yaml
+    - ./thoughtworks/users/users.yaml
