@@ -7,4 +7,6 @@ spec:
   targets:
     - ./groups/awesome-project.yaml
     - ./groups/tw.yaml
+    - ./groups/platform-engineering-team.yaml
     - ./users/users.yaml
+    - ./users/vmanitripathi.yaml

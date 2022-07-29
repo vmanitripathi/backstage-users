@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: vmanitripathi
+  profile:
+    displayName: Vaibhav Mani Tripathi
+    email: vmt@thoughtworks.com
+    picture: 
+spec:
+  memberOf: [thoughtworks, awesome-pet]
